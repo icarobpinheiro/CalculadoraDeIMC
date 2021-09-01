@@ -1,6 +1,4 @@
-# calculadora_imc
-
-BMI calculator
+# BMI calculator
 
 ## Description
 
